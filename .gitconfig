@@ -1,0 +1,7 @@
+[user]
+	emaill = arthurcamaz05@gmail.com
+	name = Arthur
+	username = Acamaz48
+[core]
+	editor = code --wait
+	autocrlf = false
